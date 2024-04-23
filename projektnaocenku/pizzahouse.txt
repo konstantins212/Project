@@ -1,0 +1,15 @@
+Pizza flavor - Veggie Pizza
+ Pizza size - 30
+ Pizza count - 210
+ Pizza flavor - Meat Pizza
+ Pizza size - 50
+ Pizza count - 3
+Pizza flavor - Cheese Pizza
+ Pizza size - 20
+ Pizza count - 1
+Pizza flavor - Margherita Pizza
+ Pizza size - 50
+ Pizza count - 14880
+Pizza flavor - Pepperoni Pizza
+ Pizza size - 30
+ Pizza count - 1
